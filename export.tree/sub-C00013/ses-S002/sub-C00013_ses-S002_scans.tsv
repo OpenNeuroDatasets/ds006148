@@ -1,0 +1,12 @@
+filename	acq_time
+pet/sub-C00013_ses-S002_task-90to120min_trc-MK6240_pet.nii.gz	1925-01-01T11:11:02
+func/sub-C00013_ses-S002_task-SynNym_dir-PA_bold.nii.gz	1925-01-01T14:24:00.145000
+func/sub-C00013_ses-S002_task-ParAso_dir-AP_bold.nii.gz	1925-01-01T14:37:04.722500
+dwi/sub-C00013_ses-S002_dir-AP_dwi.nii.gz	1925-01-01T14:47:48.852500
+func/sub-C00013_ses-S002_task-LogMem_dir-PA_bold.nii.gz	1925-01-01T14:54:09.557500
+dwi/sub-C00013_ses-S002_dir-PA_dwi.nii.gz	1925-01-01T15:04:39.505000
+func/sub-C00013_ses-S002_task-PicVoc_dir-PA_bold.nii.gz	1925-01-01T15:10:52.890000
+anat/sub-C00013_ses-S002_acq-QSMe10ph_Chimap.nii.gz	1925-01-01T15:21:13.257500
+func/sub-C00013_ses-S002_task-WorMem_dir-PA_bold.nii.gz	1925-01-01T15:26:37.997500
+func/sub-C00013_ses-S002_task-DigSym_dir-AP_bold.nii.gz	1925-01-01T15:37:43.600000
+anat/sub-C00013_ses-S002_acq-SWIe10ph_Chimap.nii.gz	1925-01-01T15:21:13.257500

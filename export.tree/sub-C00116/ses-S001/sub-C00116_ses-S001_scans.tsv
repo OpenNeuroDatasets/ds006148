@@ -1,0 +1,13 @@
+filename	acq_time
+pet/sub-C00116_ses-S001_task-30to60min_trc-FDG_pet.nii.gz	1925-01-01T10:17:10
+func/sub-C00116_ses-S001_task-PapFol_dir-PA_bold.nii.gz	1925-01-01T14:02:01.295000
+anat/sub-C00116_ses-S001_T1w.nii.gz	1925-01-01T14:12:18.012500
+func/sub-C00116_ses-S001_task-WorMem_dir-AP_bold.nii.gz	1925-01-01T14:19:47.512500
+anat/sub-C00116_ses-S001_FLAIR.nii.gz	1925-01-01T14:30:20.700000
+func/sub-C00116_ses-S001_task-LetSet_dir-PA_bold.nii.gz	1925-01-01T14:37:15.362500
+anat/sub-C00116_ses-S001_T2w.nii.gz	1925-01-01T14:47:40.040000
+func/sub-C00116_ses-S001_task-SynNym_dir-AP_bold.nii.gz	1925-01-01T14:53:30.730000
+perf/sub-C00116_ses-S001_dir-AP_asl.nii.gz	1925-01-01T15:06:21.005000
+func/sub-C00116_ses-S001_task-LogMem_dir-PA_bold.nii.gz	1925-01-01T15:23:30.087500
+func/sub-C00116_ses-S001_task-rest_dir-PA_bold.nii.gz	1925-01-01T15:34:04.442500
+func/sub-C00116_ses-S001_task-PatCom_dir-AP_bold.nii.gz	1925-01-01T15:45:25.882500

@@ -1,0 +1,111 @@
+{
+    "Modality": "PT",
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Biograph64_mCT",
+    "InstitutionName": "CBIC",
+    "InstitutionalDepartmentName": "Research",
+    "InstitutionAddress": "NYC 10021 E 72 nd ST 516",
+    "DeviceSerialNumber": "91013",
+    "StationName": "MCT1XCBIC",
+    "PatientPosition": "HFS",
+    "SoftwareVersions": "VG62C",
+    "StudyDescription": "PET^Br_18F_FDG_DeLeon (Adult)",
+    "SeriesDescription": "PET ADNI dyn 6x5min 30-60min",
+    "ProtocolName": "PET ADNI dyn 6x5min 30-60min",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY"
+    ],
+    "SeriesNumber": 7.0,
+    "AcquisitionTime": "10:31:02",
+    "AcquisitionNumber": 2001.0,
+    "ImageComments": " <BGL:90.00:mg/dl> Frame 1 of 6^AC CT Brain, Volume Scaled",
+    "Radiopharmaceutical": "Fluorodeoxyglucose",
+    "RadionuclidePositronFraction": 0.9673,
+    "InjectedRadioactivity": 196470000.0,
+    "InjectedRadioactivityUnits": "MBq",
+    "RadionuclideHalfLife": 6586.2,
+    "DoseCalibrationFactor": 30038300.0,
+    "ConvolutionKernel": "All-pass",
+    "Units": "BQML",
+    "DecayCorrection": "START",
+    "AttenuationCorrectionMethod": "measured,AC CT Brain",
+    "ReconstructionMethod": "PSF+TOF 10i21s",
+    "ReconMethodName": "Point-Spread Function modelling Time Of Flight",
+    "ReconMethodParameterLabels": [
+        "subsets",
+        "iterations"
+    ],
+    "ReconMethodParameterValues": [
+        21.0,
+        10.0
+    ],
+    "ScatterFraction": [
+        0.250404,
+        0.250404,
+        0.250404,
+        0.250404,
+        0.250404,
+        0.250404
+    ],
+    "DecayFactor": 1.01587,
+    "FrameDuration": [
+        300.0,
+        300.0,
+        300.0,
+        300.0,
+        300.0,
+        300.0
+    ],
+    "FrameReferenceTime": [
+        149.605,
+        449.605,
+        749.605,
+        1049.61,
+        1349.61,
+        1649.61
+    ],
+    "TimeZero": "10:01:00",
+    "SliceThickness": 2.027,
+    "ImageOrientationPatientDICOM": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "BidsGuess": [
+        "PET",
+        "PET"
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20241211",
+    "TracerName": "Fluorodeoxyglucose",
+    "TracerRadionuclide": "^18^Fluorine",
+    "InjectedMass": "n/a",
+    "InjectedMassUnits": "n/a",
+    "ModeOfAdministration": "bolus",
+    "SpecificRadioactivity": "n/a",
+    "SpecificRadioactivityUnits": "n/a",
+    "ScanStart": 1802.0,
+    "InjectionStart": 0.0,
+    "FrameTimesStart": [
+        1802.0,
+        2102.0,
+        2402.0,
+        2702.0,
+        3002.0,
+        3302.0
+    ],
+    "AcquisitionMode": "list mode",
+    "ImageDecayCorrected": true,
+    "ImageDecayCorrectionTime": 1802.0,
+    "ReconMethodParameterUnits": [
+        "none",
+        "none"
+    ],
+    "ReconFilterType": "All-pass",
+    "ReconFilterSize": 0.0,
+    "AttenuationCorrection": "measured,AC CT Brain"
+}

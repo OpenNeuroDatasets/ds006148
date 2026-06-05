@@ -1,0 +1,12 @@
+filename	acq_time
+pet/sub-C00327_ses-S002_task-90to120min_trc-MK6240_pet.nii.gz	1925-01-01T11:52:01
+func/sub-C00327_ses-S002_task-MatRes_dir-AP_bold.nii.gz	1925-01-01T13:34:02.997500
+func/sub-C00327_ses-S002_task-ParAso_dir-PA_bold.nii.gz	1925-01-01T13:45:44.232500
+dwi/sub-C00327_ses-S002_dir-AP_dwi.nii.gz	1925-01-01T13:56:30.322500
+func/sub-C00327_ses-S002_task-AntNym_dir-AP_bold.nii.gz	1925-01-01T14:03:34.550000
+dwi/sub-C00327_ses-S002_dir-PA_dwi.nii.gz	1925-01-01T14:14:04.892500
+func/sub-C00327_ses-S002_task-PicVoc_dir-PA_bold.nii.gz	1925-01-01T14:20:07.342500
+func/sub-C00327_ses-S002_task-DigSym_dir-AP_bold.nii.gz	1925-01-01T14:38:34.145000
+func/sub-C00327_ses-S002_task-LetCom_dir-AP_bold.nii.gz	1925-01-01T14:50:09.355000
+anat/sub-C00327_ses-S002_acq-QSMe10ph_Chimap.nii.gz	1925-01-01T15:00:26.797500
+anat/sub-C00327_ses-S002_acq-SWIe10ph_Chimap.nii.gz	1925-01-01T15:00:26.797500

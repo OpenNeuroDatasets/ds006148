@@ -1,0 +1,12 @@
+filename	acq_time
+pet/sub-C00034_ses-S002_task-30to60min_trc-FDG_pet.nii.gz	1925-01-01T10:03:34
+func/sub-C00034_ses-S002_task-PapFol_dir-PA_bold.nii.gz	1925-01-01T11:27:41.517500
+func/sub-C00034_ses-S002_task-ParAso_dir-AP_bold.nii.gz	1925-01-01T11:41:44.112500
+dwi/sub-C00034_ses-S002_dir-AP_dwi.nii.gz	1925-01-01T11:52:32.690000
+func/sub-C00034_ses-S002_task-PicVoc_dir-PA_bold.nii.gz	1925-01-01T11:59:06.875000
+dwi/sub-C00034_ses-S002_dir-PA_dwi.nii.gz	1925-01-01T12:09:45.235000
+func/sub-C00034_ses-S002_task-LogMem_dir-PA_bold.nii.gz	1925-01-01T12:15:54.015000
+anat/sub-C00034_ses-S002_acq-QSMe10ph_Chimap.nii.gz	1925-01-01T12:26:21.835000
+anat/sub-C00034_ses-S002_acq-SWIe10ph_Chimap.nii.gz	1925-01-01T12:26:21.835000
+func/sub-C00034_ses-S002_task-SynNym_dir-PA_bold.nii.gz	1925-01-01T12:31:39.930000
+func/sub-C00034_ses-S002_task-LetCom_dir-AP_bold.nii.gz	1925-01-01T12:42:59.842500
