@@ -1,0 +1,12 @@
+filename	acq_time
+func/sub-C00515_ses-S002_task-MatRes_dir-AP_bold.nii.gz	1925-01-01T14:16:55.675000
+func/sub-C00515_ses-S002_task-rest_dir-PA_bold.nii.gz	1925-01-01T14:27:41.727500
+func/sub-C00515_ses-S002_task-PicVoc_dir-PA_bold.nii.gz	1925-01-01T14:39:00.185000
+dwi/sub-C00515_ses-S002_dir-AP_dwi.nii.gz	1925-01-01T14:50:05.370000
+func/sub-C00515_ses-S002_task-PapFol_dir-PA_bold.nii.gz	1925-01-01T14:56:32.952500
+dwi/sub-C00515_ses-S002_dir-PA_dwi.nii.gz	1925-01-01T15:07:06.707500
+func/sub-C00515_ses-S002_task-LogMem_dir-AP_bold.nii.gz	1925-01-01T15:13:42.272500
+func/sub-C00515_ses-S002_task-PatCom_dir-AP_bold.nii.gz	1925-01-01T15:30:03.527500
+anat/sub-C00515_ses-S002_T1w.nii.gz	1925-01-01T15:40:56.187500
+anat/sub-C00515_ses-S002_acq-QSMe10ph_Chimap.nii.gz	1925-01-01T15:23:55.792500
+anat/sub-C00515_ses-S002_acq-SWIe10ph_Chimap.nii.gz	1925-01-01T15:23:55.792500

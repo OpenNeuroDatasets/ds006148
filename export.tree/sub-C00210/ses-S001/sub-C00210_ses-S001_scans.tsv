@@ -1,0 +1,12 @@
+filename	acq_time
+func/sub-C00210_ses-S001_task-PapFol_dir-PA_bold.nii.gz	1925-01-01T10:53:27.027500
+anat/sub-C00210_ses-S001_T1w.nii.gz	1925-01-01T11:03:44.007500
+func/sub-C00210_ses-S001_task-WorMem_dir-AP_bold.nii.gz	1925-01-01T11:10:17.600000
+anat/sub-C00210_ses-S001_FLAIR.nii.gz	1925-01-01T11:20:43.452500
+func/sub-C00210_ses-S001_task-LetSet_dir-PA_bold.nii.gz	1925-01-01T11:27:18.480000
+anat/sub-C00210_ses-S001_T2w.nii.gz	1925-01-01T11:37:39.687500
+func/sub-C00210_ses-S001_task-SynNym_dir-AP_bold.nii.gz	1925-01-01T11:43:08.822500
+perf/sub-C00210_ses-S001_dir-AP_asl.nii.gz	1925-01-01T12:06:27.795000
+func/sub-C00210_ses-S001_task-LogMem_dir-PA_bold.nii.gz	1925-01-01T12:13:03.785000
+func/sub-C00210_ses-S001_task-rest_dir-PA_bold.nii.gz	1925-01-01T12:23:46.252500
+func/sub-C00210_ses-S001_task-PatCom_dir-AP_bold.nii.gz	1925-01-01T12:34:44.580000

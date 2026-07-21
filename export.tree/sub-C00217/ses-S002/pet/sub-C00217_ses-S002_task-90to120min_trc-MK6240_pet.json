@@ -1,0 +1,111 @@
+{
+    "Modality": "PT",
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Biograph64_mCT",
+    "InstitutionName": "CBIC",
+    "InstitutionalDepartmentName": "Research",
+    "InstitutionAddress": "NYC 10021 E 72 nd ST 516",
+    "DeviceSerialNumber": "91013",
+    "StationName": "MCT1XCBIC",
+    "PatientPosition": "HFS",
+    "SoftwareVersions": "VG62C",
+    "StudyDescription": "PET^Br_18F_MK6240_DYN_60_30_DeLeon (Adult)",
+    "SeriesDescription": "PET 6X5 MIN",
+    "ProtocolName": "PET 6X5 MIN",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY"
+    ],
+    "SeriesNumber": 12.0,
+    "AcquisitionTime": "11:19:02",
+    "AcquisitionNumber": 4001.0,
+    "ImageComments": " Frame 1 of 6^AC CT Brain, Volume Scaled",
+    "Radiopharmaceutical": "ATSM",
+    "RadionuclidePositronFraction": 0.176,
+    "InjectedRadioactivity": 227180000.0,
+    "InjectedRadioactivityUnits": "MBq",
+    "RadionuclideHalfLife": 45723.6,
+    "DoseCalibrationFactor": 172410000.0,
+    "ConvolutionKernel": "XYZ Gauss4.00",
+    "Units": "BQML",
+    "DecayCorrection": "START",
+    "AttenuationCorrectionMethod": "measured,AC CT Brain",
+    "ReconstructionMethod": "OSEM3D+TOF 4i21s",
+    "ReconMethodName": "Ordered Subset Expectation Maximization Time Of Flight",
+    "ReconMethodParameterLabels": [
+        "subsets",
+        "iterations"
+    ],
+    "ReconMethodParameterValues": [
+        21.0,
+        4.0
+    ],
+    "ScatterFraction": [
+        0.264681,
+        0.264681,
+        0.264681,
+        0.264681,
+        0.264681,
+        0.264681
+    ],
+    "DecayFactor": 1.00228,
+    "FrameDuration": [
+        300.0,
+        300.0,
+        300.0,
+        300.0,
+        300.0,
+        300.0
+    ],
+    "FrameReferenceTime": [
+        150.0,
+        450.0,
+        750.0,
+        1050.0,
+        1350.0,
+        1650.0
+    ],
+    "TimeZero": "09:48:00",
+    "SliceThickness": 2.027,
+    "ImageOrientationPatientDICOM": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+    ],
+    "BidsGuess": [
+        "PET",
+        "PET"
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20241211",
+    "TracerName": "ATSM",
+    "TracerRadionuclide": "^64^Copper",
+    "InjectedMass": "n/a",
+    "InjectedMassUnits": "n/a",
+    "ModeOfAdministration": "bolus",
+    "SpecificRadioactivity": "n/a",
+    "SpecificRadioactivityUnits": "n/a",
+    "ScanStart": 5462.0,
+    "InjectionStart": 0.0,
+    "FrameTimesStart": [
+        5462.0,
+        5762.0,
+        6062.0,
+        6362.0,
+        6662.0,
+        6962.0
+    ],
+    "AcquisitionMode": "list mode",
+    "ImageDecayCorrected": true,
+    "ImageDecayCorrectionTime": 5462.0,
+    "ReconMethodParameterUnits": [
+        "none",
+        "none"
+    ],
+    "ReconFilterType": "XYZ Gauss4.00",
+    "ReconFilterSize": 4.0,
+    "AttenuationCorrection": "measured,AC CT Brain"
+}
